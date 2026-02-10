@@ -1,0 +1,2 @@
+# SkrMiner
+Mine for fun!
